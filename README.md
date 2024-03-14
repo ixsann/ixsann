@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning network automation & QA
+
+
+
 <!--
 **ixsann/ixsann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
